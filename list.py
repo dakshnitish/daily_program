@@ -5,6 +5,7 @@ for i in list:
      l.append(i)
    else:
     pass
-print(l)  
+print(l)
+print("hello")  
 
 
