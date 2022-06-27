@@ -1,0 +1,3 @@
+my name is nitish 
+my dob is 28/03/1999 
+the language in which i am comfortable with is python
