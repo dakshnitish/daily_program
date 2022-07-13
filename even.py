@@ -14,8 +14,11 @@
 
 
 a=[1,2,3,4,23,45,5,6,5,4,8,19]
-b=[2,4,23.4,8,5,19]
-#lst=set(a) & set(b)
-#l=list(lst)
+b=[2,4,23,4,8,5,19]
+lst=list(set(a) &  set(b))
+print(lst)
+l=list(lst)
 l=[i for i in a and b if i in a and b]
+# lst=set(l)
+# l1=list(lst)
 print(l)
