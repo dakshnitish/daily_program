@@ -2,10 +2,6 @@
 # if num%2==0:
 #     print("number is even ")
 
-<<<<<<< Updated upstream
-else:
-    print("number is odd")    
-=======
 # else:
 #     print("number is oddddd")   
 
@@ -25,4 +21,3 @@ with open('candidate_data.csv','r') as f:
 		line = f.readline()
 
 print(counter_dict)
->>>>>>> Stashed changes
